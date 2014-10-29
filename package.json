@@ -1,6 +1,6 @@
 {
   "name": "gulp-confidence",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a gulp plugin for confidenceJS",
   "main": "index.js",
   "scripts": {
