@@ -4,20 +4,21 @@
   "description": "a gulp plugin for confidenceJS",
   "main": "index.js",
   "scripts": {
-    "test": "jasmine-node spec/"
+    "test": "jasmine-node --captureExceptions  spec/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kingles/gulp-confidence.git"
+    "url": "https://github.com/asilluron/gulp-confidence.git"
   },
   "author": "Kingles(jmaligie@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kingles/gulp-confidence/issues"
+    "url": "https://github.com/asilluron/gulp-confidence/issues"
   },
-  "homepage": "https://github.com/Kingles/gulp-confidence",
+  "homepage": "https://github.com/asilluron/gulp-confidence",
   "dependencies": {
     "confidence": "^1.0.0",
+    "gulp-data": "^1.0.2",
     "gulp-util": "^3.0.1",
     "lodash": "^2.4.1",
     "through2": "^0.6.3"
