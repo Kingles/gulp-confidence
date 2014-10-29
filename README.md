@@ -3,7 +3,7 @@ gulp-confidence
 
 Confidence JSON plugin for GulpJS
 
-# [gulp](http://gulpjs.com)-confidence [![Build Status](https://travis-ci.org/kingles/gulp-confidence.svg?branch=master)](https://travis-ci.org/kingles/gulp-confidence)
+# [gulp](http://gulpjs.com)-confidence [![Build Status](https://travis-ci.org/Kingles/gulp-confidence.svg?branch=master)](https://travis-ci.org/Kingles/gulp-confidence)
 
 > retreive parameterized [confidence](https://github.com/hapijs/confidence) documents using gulp.
 
